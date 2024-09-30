@@ -4,3 +4,18 @@ body, html {
   box-sizing: border-box;
   font-family: Arial;
 }
+
+.cards{
+  display: flex;
+}
+
+.card{
+  flex: 50%;
+  margin: 10px;
+  border: 5px solid black;
+}
+
+.card .footer{
+  background-color: grey;
+  padding: 10px;
+}
