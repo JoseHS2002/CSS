@@ -1,1 +1,7 @@
-
+div {
+ background-color: ;
+ width: 500px solid red;
+ padding: 30px solid blue;
+ border: 20px solid green;
+ margin: 10px solid yellow;
+}
