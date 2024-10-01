@@ -1,10 +1,10 @@
 #titulo {
   color: blue;
-  Liberation Serif;
+  font-family: Liberation Serif;
 }
 .texto {
   color: orange;
-  Arial;
+  font-family: Arial;
 }
 .boton {
 
