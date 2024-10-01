@@ -9,8 +9,10 @@
   font-size: 12px;
 }
 .boton {
-
+  background-color: #F77E0B;
+  color: purple;
 }
 #botonEnviar {
-
+  font-family: Carlito;
+  font-size: 10px;
 }
