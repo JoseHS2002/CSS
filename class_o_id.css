@@ -11,10 +11,11 @@
 .boton {
   background-color: #F77E0B;
   color: purple;
-}
-#botonEnviar {
   font-family: Carlito;
   font-size: 10px;
+}
+#botonEnviar {
   width: 200px solid green;
   height: 200px solid green;
+  border: 20px solid orange;
 }
