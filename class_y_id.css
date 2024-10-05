@@ -3,13 +3,13 @@
   font-family: Liberation Serif;
   font-size: 50px;
 }
-.destacado {
+#destacado {
   background-color: green;
   color: red;
 }
 .contenido {
 
 }
-.especial {
+#especial {
 
 }
