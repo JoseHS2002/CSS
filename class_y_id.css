@@ -8,8 +8,10 @@
   color: red;
 }
 .contenido {
-
+  color: orange;
+  background: purple;
+  font-size: 20px;
 }
 #especial {
-
+font-family: Arial;
 }
